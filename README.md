@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isBooleanDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-boolean-data-type@deno/mod.js';
+import isBooleanDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-boolean-data-type@v0.0.1-deno/mod.js';
 ```
 
 #### isBooleanDataType( value )
@@ -88,7 +88,7 @@ bool = isBooleanDataType( 'uint32' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isBooleanDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-boolean-data-type@deno/mod.js';
+import isBooleanDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-boolean-data-type@v0.0.1-deno/mod.js';
 
 var bool = isBooleanDataType( 'bool' );
 // returns true
